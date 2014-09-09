@@ -15,6 +15,6 @@ changes occuring in the industry.
 
 ### Current Inspiration
 
-*[Creativebloq](http://www.creativebloq.com/) I love this site because it has news from graphic design to webdesign. It helps keep me updated in what's going on in the industry. 
-*two
-*three
+-[Creativebloq](http://www.creativebloq.com/) I love this site because it has news from graphic design to webdesign. It helps keep me updated in what's going on in the industry. 
+-two
+-three
