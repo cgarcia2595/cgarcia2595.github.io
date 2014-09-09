@@ -15,6 +15,7 @@ changes occuring in the industry.
 
 ### Current Inspiration
 
--[Creativebloq](http://www.creativebloq.com/) I love this site because it has news from graphic design to webdesign. It helps keep me updated in what's going on in the industry. 
+-[Creativebloq](http://www.creativebloq.com/) This site has tutorials, news, and articles that keeps my mind inspired.  
+
 -two
 -three
