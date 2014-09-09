@@ -3,6 +3,15 @@ layout: post
 title: You're up and running!
 ---
 
+### testing markdown
+
+1. one
+2. two
+3. three
+
+here's a link to [google](https://www.google.com)
+
+
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
