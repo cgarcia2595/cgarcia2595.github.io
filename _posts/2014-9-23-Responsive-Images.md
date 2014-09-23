@@ -18,16 +18,13 @@ First you need to create a class in CSS follow by the different attributes that 
         height:400px;
 }
 ```
-
 In your HTML the class you created above is then inserted in a class tag wherever you want the image to appear. 
-
 
 ```
 <header class="someclass">
 // text or whatever content
 </header>
 ```
-
 
 WOOLA! The image will appear in the header portion of the page because that's where I placed the class tag. Sadly you can only do so much with background images and sometimes you need find another solution. 
 
@@ -55,9 +52,6 @@ Now you are ready to use the ``` picture``` tag to implement responsive images t
       <source media="(min-width: 768px)" srcset="images-tablet.jpg, images-tablet@2x.jpg 2x"></source>
       <img srcset="images-mobile.jpg, images-mobile@2x.jpg 2x" alt="some-text!">
     </picture>
-
-
-
 
 ***If you're going mobile first, you must supply your sources from largest to smallest.***
 
