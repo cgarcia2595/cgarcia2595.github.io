@@ -22,10 +22,10 @@ First you need to create a class in CSS follow by the different attributes that 
 In your HTML the class you created above is then inserted in a class tag wherever you want the image to appear. 
 
 
-``` 
+```
 <header class="someclass">
-  <h1>header</h1>
-</header>  
+// text or whatever content
+</header>
 ```
 
 
