@@ -21,11 +21,13 @@ First you need to create a class in CSS follow by the different attributes that 
 
 In your HTML the class you created above is then inserted in a class tag wherever you want the image to appear. 
 
-```
+
+``` 
 <header class="someclass">
-  <h1>some-text</h1>
-</header>
+  <h1> some-text</h1>
+</header>  
 ```
+
 
 WOOLA! The image will appear in the header portion of the page because that's where I placed the class tag. Sadly you can only do so much with background images and sometimes you need find another solution. 
 
@@ -50,14 +52,16 @@ Now you are ready to use the ``` picture``` tag to implement responsive images t
 ``` 
 <picture>
   <source media="(min-width: 1024px)" srcset="images-desktop.jpg, images-desktop@2x.jpg 2x"></source>
-  <source media="(min-width: 768px)" srcset="images-tablet.jpg, fimages/site-banner-tablet@2x.jpg 2x"></source>
-  <img srcset="images-mobile.jpg, images-mobile@2x.jpg 2x" alt="Good dog!">
-  
+  <source media="(min-width: 768px)" srcset="images-tablet.jpg, images-tablet@2x.jpg 2x"></source>
+  <img srcset="images-mobile.jpg, images-mobile@2x.jpg 2x" alt="some-text!">
 </picture>
 ```
-something important to note is that you start from the biggest screen to the smallest. 
+***If you're going mobile first, you must supply your sources from largest to smallest.***
 
+Here are more reasons why responsive images are important!
 
+Picture yourself browsing a site in your mobile phone in your basement. I bet you are pulling your hair out, right? You bet! Most likely the site is taking forever to load because the Internet connection is poor in most basements. That is why responsive images are important because it allows the developer to control what pair of images the browser is going to download. Responsive images also help “maintain” the site layout. If the images are too big it may potentially break the layout design. Responsive images plays an important role in web design, not only it loads different size images according the device size, it also helps the designer art direct the type of images each break point will showcase allowing the user to experience a better site. 
 
+The web is always evolving as new technology allows developers to control the creation of the web in a more efficient way. After all, every developer and designer wants their work to be seen and enjoy by many. Little by little we create a better web. 
 
 
