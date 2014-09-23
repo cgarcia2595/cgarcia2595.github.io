@@ -24,7 +24,7 @@ In your HTML the class you created above is then inserted in a class tag whereve
 
 ``` 
 <header class="someclass">
-  <h1> some-text</h1>
+  <h1>header</h1>
 </header>  
 ```
 
