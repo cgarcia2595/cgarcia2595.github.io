@@ -48,14 +48,17 @@ document.createElement("picture");
 ``` 
 
 Now you are ready to use the ``` picture``` tag to implement responsive images to your site. 
-
-``` 
+    
+```
 <picture>
   <source media="(min-width: 1024px)" srcset="images-desktop.jpg, images-desktop@2x.jpg 2x"></source>
   <source media="(min-width: 768px)" srcset="images-tablet.jpg, images-tablet@2x.jpg 2x"></source>
   <img srcset="images-mobile.jpg, images-mobile@2x.jpg 2x" alt="some-text!">
 </picture>
+
 ```
+
+
 ***If you're going mobile first, you must supply your sources from largest to smallest.***
 
 Here are more reasons why responsive images are important!
