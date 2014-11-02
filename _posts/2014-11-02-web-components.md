@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SMACCS!
+title: Web components!
 ---
 
 Web components are a mind-boggling concept for someone who just begun understanding HTML and CSS not so long ago.  Yet, web components offers an exiting preview of what the web could and will be in a near future, which I’m all for! Understanding web components is not easy and especially for someone who barely understand JavaScript. Luckily web developers are kind enough to share and explain complex concepts and emerging technologies with the rest, which allows the industry as a whole to advance as fast as the web. Upon seeing Mr. Biderman lecture I’m convince that web components will play an important role in the web in a near future. 
