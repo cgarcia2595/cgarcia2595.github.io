@@ -9,4 +9,7 @@ The whole idea of defining a new HTML element tag is amazing, and with this feat
 
 Another idea that I found interesting was the idea of reusing code by using HTML import that web components offer and by using HTML imports developers can use other people’s work to further develop the web. After, all isn’t the web considered a collaborating that many people made possible?
 
-https://developers.google.com/events/io/sessions/318907648
+-[Web Components: A Tectonic Shift for Web Development](https://developers.google.com/events/io/sessions/318907648) 
+
+
+
