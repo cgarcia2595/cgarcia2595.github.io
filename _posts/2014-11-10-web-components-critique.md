@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Components and its future
+title: Web Components and Its Future
 ---
 
 Many professionals take pride in their work and especially if they are truly dedicated and passionate about what they do. Many simply enjoy the daily struggles and challenges their job throws at them. Perhaps, we expect all that and much more. Yet, we all love a good “freebie,” don’t we? If someone comes and tells you, “Hey, I have something that will make your job easier,” wouldn’t you take it? 
